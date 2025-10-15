@@ -1,6 +1,6 @@
 
-
 Catalogo de Automóveis 🏍️
+
 Um Catálogo de Concessionária Moderno em React/TypeScript
 Este projeto é um frontend moderno e interativo desenvolvido para funcionar como um catálogo digital ou site de concessionária de veículos, utilizando as melhores práticas do ecossistema React.
 
@@ -52,15 +52,10 @@ O projeto será aberto em http://localhost:8080 (ou a porta configurada no seu a
 A característica mais inovadora do nosso catálogo é a forma como ele conecta o cliente ao vendedor.
 Ao clicar no botão de finalização da compra, o usuário preenche um formulário com:
 Seu Nome
-
 Telefone (para contato via WhatsApp)
-
 Forma de Pagamento de Interesse:
-
 Financiamento
-
 À Vista
-
 Consórcio
 
 Após o envio, um link é gerado para o WhatsApp da loja, enviando uma mensagem pré-formatada com as informações do veículo e o interesse do cliente.
